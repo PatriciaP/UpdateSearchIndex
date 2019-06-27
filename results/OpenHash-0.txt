@@ -1,0 +1,20 @@
+easy 3 4 
+Good 1 7 
+human-engineered 5 
+programming 1 7 
+
+----Tempo Gasto em NanoSegundos----
+Iteração 1: 118439156
+Iteração 2: 3473546
+Iteração 3: 3986352
+Iteração 4: 2173064
+Iteração 5: 5258835
+Iteração 6: 5676663
+Iteração 7: 2677583
+Iteração 8: 5582339
+Iteração 9: 2391646
+Iteração 10: 2640855
+
+Menor Tempo: 2173064
+Maior Tempo: 118439156
+Tempo Medio: 15230003

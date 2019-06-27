@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a545a31f-5655-4b99-8bb7-1b86da2f3275" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ed/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ed/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ed/structures/btree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ed/structures/btree/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ed/structures/btree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ed/structures/btree/Tree.class" afterDir="false" />
@@ -13,18 +12,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/ed/structures/list/ListCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ed/structures/list/ListCell.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ed/structures/list/SearchCell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ed/structures/list/SearchCell.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ed/structures/list/SearchList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ed/structures/list/SearchList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/btree/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/btree/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/hash/HashMapCell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/hash/HashMapTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/hash/HashMapUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/hash/LinkedHashCell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/hash/LinkedHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/list/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/list/ListCell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/list/SearchCell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/structures/list/SearchList.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +27,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.5206612">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/structures/hash/LinkedHashMap.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="123">
@@ -58,10 +45,10 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/results/LinkedHashMap.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
+                <state relative-caret-position="65">
                   <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
                 </state>
               </provider>
@@ -86,8 +73,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/structures/hash/HashMapTable.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="155">
-                  <caret line="209" selection-start-line="209" selection-end-line="210" />
+                <state relative-caret-position="56">
+                  <caret line="209" column="26" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -104,9 +91,15 @@
       <find>../results/AVLTree.txt</find>
       <find>../results</find>
       <find>equals</find>
+      <find>ord</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pamarante &lt;patriciaamarante@hotmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -284,18 +277,25 @@
       <option name="presentableId" value="Default" />
       <updated>1561549813423</updated>
       <workItem from="1561549825045" duration="11473000" />
-      <workItem from="1561599078822" duration="9411000" />
+      <workItem from="1561599078822" duration="9713000" />
     </task>
+    <task id="LOCAL-00001" summary="Finalized">
+      <created>1561610146841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561610146842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20884000" />
+    <option name="totallyTimeSpent" value="21186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1608" height="859" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22036083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22036083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,7 +304,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42520776" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42520776" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41135734" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,7 +312,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.6869806" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.6869806" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32825485" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -359,6 +359,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -585,13 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/LinkedHashMap.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/structures/list/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -604,8 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/structures/hash/HashMapTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="209" selection-start-line="209" selection-end-line="210" />
+        <state relative-caret-position="56">
+          <caret line="209" column="26" selection-start-line="209" selection-start-column="26" selection-end-line="209" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -616,6 +615,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/LinkedHashMap.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
